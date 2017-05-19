@@ -1,3 +1,4 @@
 Mars is super red!
 line2
 I know nothing about Mars.
+line 4 in master.

@@ -1,1 +1,2 @@
 Mars is super red!
+line2
